@@ -36,31 +36,31 @@
     "History": {
         "Who wrote the Declaration of Independence?": [
             "Thomas Jefferson",
-            0
+            2
         ],
         "In what year did Christopher Columbus reach the Americas?": [
             "1492",
-            0
+            1
         ],
         "Which ancient civilization built the Great Wall of China?": [
             "Chinese",
-            0
+            2
         ],
         "Who was the first emperor of Rome?": [
             "Augustus",
-            0
+            2
         ],
         "What event started World War I?": [
             "Assassination of Archduke Franz Ferdinand",
-            0
+            3
         ],
         "Who was the first President of the United States?": [
             "George Washington",
-            1
+            2
         ],
         "Which war took place between the North and the South in the United States?": [
             "Civil War",
-            0
+            1
         ],
         "What was the capital of the Byzantine Empire?": [
             "Constantinople",
@@ -70,39 +70,39 @@
     "Literature": {
         "Who wrote 'To Kill a Mockingbird'?": [
             "Harper Lee",
-            3
+            1
         ],
         "What Shakespeare play features the characters Rosencrantz and Guildenstern?": [
             "Hamlet",
-            3
+            0
         ],
         "In which novel does the character Holden Caulfield appear?": [
             "The Catcher in the Rye",
-            3
+            1
         ],
         "Who wrote 'Pride and Prejudice'?": [
             "Jane Austen",
-            3
+            2
         ],
         "What is the name of the wizarding school in the Harry Potter series?": [
             "Hogwarts",
-            3
+            0
         ],
         "Which author wrote 'The Great Gatsby'?": [
             "F. Scott Fitzgerald",
-            3
+            0
         ],
         "What is the title of J.R.R. Tolkien's sequel to 'The Hobbit'?": [
             "The Lord of the Rings",
-            3
+            0
         ],
         "Who wrote '1984'?": [
             "George Orwell",
-            3
+            0
         ],
         "Who wrote Harry Potter?": [
             "J.K. Rowling",
-            3
+            0
         ]
     },
     "Geography": {
@@ -248,9 +248,17 @@
     "Football": {
         "Who won the World Cup in 2014?": [
             "Germany",
-            1
+            3
         ],
         "Who won the World Cup in 1990?": [
+            "Germany",
+            3
+        ],
+        "Who won the World Cup 1954?": [
+            "Germany",
+            3
+        ],
+        "Who won the Euros 1996?": [
             "Germany",
             1
         ]
