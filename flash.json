@@ -2,75 +2,91 @@
     "Science": {
         "What planet is known as the Earth's twin?": [
             "Venus",
-            3
+            0
         ],
         "What force keeps us grounded on Earth?": [
             "Gravity",
-            3
+            0
         ],
         "What part of the plant conducts photosynthesis?": [
             "Leaf",
-            3
+            0
         ],
         "What is the chemical symbol for water?": [
             "H2O",
-            1
+            0
         ],
         "Which organ pumps blood throughout the body?": [
             "Heart",
-            1
+            0
         ],
         "What process converts light energy into chemical energy in plants?": [
             "Photosynthesis",
-            2
+            0
         ],
         "What is the boiling point of water in Celsius?": [
             "100 degrees",
-            3
+            0
         ],
         "What is the largest organ in the human body?": [
             "Skin",
+            0
+        ],
+        "What gas do plants absorb from the atmosphere?": [
+            "Carbon dioxide",
+            0
+        ],
+        "What is the powerhouse of the cell?": [
+            "Mitochondria",
             0
         ]
     },
     "History": {
         "Who wrote the Declaration of Independence?": [
             "Thomas Jefferson",
-            2
+            0
         ],
         "In what year did Christopher Columbus reach the Americas?": [
             "1492",
-            1
+            0
         ],
         "Which ancient civilization built the Great Wall of China?": [
             "Chinese",
-            2
+            0
         ],
         "Who was the first emperor of Rome?": [
             "Augustus",
-            2
+            0
         ],
         "What event started World War I?": [
             "Assassination of Archduke Franz Ferdinand",
-            3
+            0
         ],
         "Who was the first President of the United States?": [
             "George Washington",
-            2
+            0
         ],
         "Which war took place between the North and the South in the United States?": [
             "Civil War",
-            1
+            0
         ],
         "What was the capital of the Byzantine Empire?": [
             "Constantinople",
+            0
+        ],
+        "Who was known as the 'Mad Monk' in Russian history?": [
+            "Rasputin",
+            0
+        ],
+        "What was the name of the ship that brought the Pilgrims to America in 1620?": [
+            "Mayflower",
             0
         ]
     },
     "Literature": {
         "Who wrote 'To Kill a Mockingbird'?": [
             "Harper Lee",
-            1
+            0
         ],
         "What Shakespeare play features the characters Rosencrantz and Guildenstern?": [
             "Hamlet",
@@ -78,11 +94,11 @@
         ],
         "In which novel does the character Holden Caulfield appear?": [
             "The Catcher in the Rye",
-            1
+            0
         ],
         "Who wrote 'Pride and Prejudice'?": [
             "Jane Austen",
-            2
+            0
         ],
         "What is the name of the wizarding school in the Harry Potter series?": [
             "Hogwarts",
@@ -103,12 +119,16 @@
         "Who wrote Harry Potter?": [
             "J.K. Rowling",
             0
+        ],
+        "Which novel features the character Jay Gatsby?": [
+            "The Great Gatsby",
+            0
         ]
     },
     "Geography": {
         "What is the capital city of Australia?": [
             "Canberra",
-            1
+            0
         ],
         "Which river runs through Paris?": [
             "Seine",
@@ -136,10 +156,14 @@
         ],
         "What is the southernmost continent on Earth?": [
             "Antarctica",
-            1
+            0
         ],
         "What's the capital of Germany?": [
             "Berlin",
+            0
+        ],
+        "What is the longest river in the world?": [
+            "Nile",
             0
         ]
     },
@@ -154,7 +178,7 @@
         ],
         "What is the most widely used programming language?": [
             "JavaScript",
-            1
+            0
         ],
         "What technology is used to make telephone calls over the internet?": [
             "VoIP (Voice over Internet Protocol)",
@@ -170,11 +194,19 @@
         ],
         "Who founded Microsoft?": [
             "Bill Gates and Paul Allen",
-            1
+            0
         ],
         "What year was the first iPhone released?": [
             "2007",
-            1
+            0
+        ],
+        "What does URL stand for?": [
+            "Uniform Resource Locator",
+            0
+        ],
+        "What is the name of the first electronic general-purpose computer?": [
+            "ENIAC",
+            0
         ]
     },
     "Art": {
@@ -209,6 +241,14 @@
         "What is the name of the painting technique that uses small dots of color to create an image?": [
             "Pointillism",
             0
+        ],
+        "Who painted 'The Persistence of Memory'?": [
+            "Salvador Dali",
+            0
+        ],
+        "Which art movement is characterized by an emphasis on light and color, with visible brush strokes?": [
+            "Impressionism",
+            0
         ]
     },
     "Music": {
@@ -218,7 +258,7 @@
         ],
         "What is the highest male singing voice?": [
             "Tenor",
-            2
+            0
         ],
         "Who is known as the King of Pop?": [
             "Michael Jackson",
@@ -230,7 +270,7 @@
         ],
         "Who composed the Ninth Symphony also known as Ode to Joy?": [
             "Ludwig van Beethoven",
-            2
+            0
         ],
         "What is the name of the music notation system used in Western music?": [
             "Staff notation",
@@ -238,10 +278,18 @@
         ],
         "Which instrument has keys, pedals, and strings?": [
             "Piano",
-            1
+            0
         ],
         "What genre of music did Louis Armstrong pioneer?": [
             "Jazz",
+            0
+        ],
+        "Which composer wrote the 'Moonlight Sonata'?": [
+            "Ludwig van Beethoven",
+            0
+        ],
+        "What is the largest string instrument in an orchestra?": [
+            "Double bass",
             0
         ]
     },
@@ -252,14 +300,38 @@
         ],
         "Who won the World Cup in 1990?": [
             "Germany",
-            3
+            1
         ],
         "Who won the World Cup 1954?": [
             "Germany",
-            3
+            2
         ],
         "Who won the Euros 1996?": [
             "Germany",
+            3
+        ],
+        "Which country has won the most World Cups?": [
+            "Brazil",
+            0
+        ],
+        "Who is the top scorer in World Cup history?": [
+            "Miroslav Klose",
+            0
+        ],
+        "Which country hosted the 2018 FIFA World Cup?": [
+            "Russia",
+            0
+        ],
+        "Who is known as 'The Hand of God' in football?": [
+            "Diego Maradona",
+            0
+        ],
+        "Which country won the first ever World Cup in 1930?": [
+            "Uruguay",
+            0
+        ],
+        "Who holds the record for the most goals in a calendar year?": [
+            "Lionel Messi",
             1
         ]
     }

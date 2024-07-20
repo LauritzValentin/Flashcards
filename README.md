@@ -2,6 +2,10 @@
 
 Flash Genius is a flashcard application designed to help users learn various topics through an interactive graphical interface. The application allows users to create new topics, add flashcards to existing topics, learn flashcards, and track their progress. 
 
+## GitHub
+
+You´ll find the project here: https://github.com/LauritzValentin/Flashcards
+
 ## Features
 
 - **Learn Flashcards**: Select a topic and start a learning session where you can answer flashcards. Earn points for each correct answer and mark cards as complete when you've answered correctly three times.
@@ -10,11 +14,11 @@ Flash Genius is a flashcard application designed to help users learn various top
 
 ## Project Structure
 
-- `deck.py`: Manages loading, saving, and handling the flashcard deck.
-- `learn_topic.py`: Controls the learning process, tracking progress and providing feedback.
-- `flashcard_app.py`: Implements the graphical user interface and manages user interactions.
-- `initialize.py`: Initializes the flashcard deck by loading data from flash.json.
-- `flash.json`: JSON file storing flashcard data.
+- `deck.py`: Manages loading, saving, and handling the flashcard deck. (Anja)
+- `learn_topic.py`: Controls the learning process, tracking progress and providing feedback. (Jana, Isabel, Lauritz)
+- `flashcard_app.py`: Implements the graphical user interface and manages user interactions. (Marko, Eric, Jana, Lauritz)
+- `initialize.py`: Initializes the flashcard deck by loading data from flash.json. (Anja)
+- `flash.json`: JSON file storing flashcard data. (Isabel)
 - `main_gui.py`: Run the programme
 
 
