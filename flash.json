@@ -2,7 +2,7 @@
     "Science": {
         "What planet is known as the Earth's twin?": [
             "Venus",
-            0
+            1
         ],
         "What force keeps us grounded on Earth?": [
             "Gravity",
@@ -18,7 +18,7 @@
         ],
         "Which organ pumps blood throughout the body?": [
             "Heart",
-            0
+            2
         ],
         "What process converts light energy into chemical energy in plants?": [
             "Photosynthesis",
@@ -30,11 +30,11 @@
         ],
         "What is the largest organ in the human body?": [
             "Skin",
-            0
+            1
         ],
         "What gas do plants absorb from the atmosphere?": [
             "Carbon dioxide",
-            0
+            2
         ],
         "What is the powerhouse of the cell?": [
             "Mitochondria",
@@ -300,11 +300,11 @@
         ],
         "Who won the World Cup in 1990?": [
             "Germany",
-            1
+            2
         ],
         "Who won the World Cup 1954?": [
             "Germany",
-            2
+            1
         ],
         "Who won the Euros 1996?": [
             "Germany",
@@ -312,7 +312,7 @@
         ],
         "Which country has won the most World Cups?": [
             "Brazil",
-            0
+            1
         ],
         "Who is the top scorer in World Cup history?": [
             "Miroslav Klose",
@@ -328,10 +328,14 @@
         ],
         "Which country won the first ever World Cup in 1930?": [
             "Uruguay",
-            0
+            1
         ],
         "Who holds the record for the most goals in a calendar year?": [
             "Lionel Messi",
+            1
+        ],
+        "Who won the Euros 2024?": [
+            "Spain",
             1
         ]
     }
