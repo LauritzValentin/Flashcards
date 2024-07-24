@@ -12,15 +12,17 @@ You´ll find the project here: https://github.com/LauritzValentin/Flashcards
 - **Add Flashcards**: Create new topics and add flashcards to them with ease.
 - **Reset Progress**: Reset your progress for any topic to start learning from scratch.
 
-## Project Structure
+## Project Structure + Team Input
 
 - `deck.py`: Manages loading, saving, and handling the flashcard deck. (Anja)
 - `learn_topic.py`: Controls the learning process, tracking progress and providing feedback. (Jana, Isabel, Lauritz)
 - `flashcard_app.py`: Implements the graphical user interface and manages user interactions. (Marko, Eric, Jana, Lauritz)
+- `Design + Logo` (Jana)
 - `initialize.py`: Initializes the flashcard deck by loading data from flash.json. (Anja)
 - `flash.json`: JSON file storing flashcard data. (Isabel)
 - `main_gui.py`: Run the programme
-
+- `Debugging` (all)
+- `Documentation` (Lauritz, Isabel)
 
 ## Usage
 
